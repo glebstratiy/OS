@@ -1,0 +1,14 @@
+{
+  "ActiveTargetSystem": "WSL: Ubuntu",
+  "MRUPresetsPerTargetSystem": {
+    "Локальный компьютер": {
+      "configure": "x64-debug"
+    }
+  },
+  "ExpandedNodes": [
+    "",
+    "\\Lab4"
+  ],
+  "SelectedNode": "\\Lab4\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}

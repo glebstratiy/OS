@@ -1,0 +1,5 @@
+C:/Users/gstra/source/repos/Lab4/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/gstra/source/repos/Lab4/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/gstra/source/repos/Lab4/out/build/x64-debug/Lab4/CMakeFiles/Lab4.dir
+C:/Users/gstra/source/repos/Lab4/out/build/x64-debug/Lab4/CMakeFiles/edit_cache.dir
+C:/Users/gstra/source/repos/Lab4/out/build/x64-debug/Lab4/CMakeFiles/rebuild_cache.dir

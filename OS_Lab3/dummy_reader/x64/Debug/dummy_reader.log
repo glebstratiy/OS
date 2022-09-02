@@ -1,0 +1,3 @@
+﻿  dummy_reader.cpp
+C:\Users\gstra\OneDrive\Рабочий стол\os-labs (2)\lab3\dummy_reader\dummy_reader.cpp(12,8): warning C4477: "scanf": в строке форматирования "%zx" требуется аргумент типа "unsigned __int64 *", но вариативный аргумент "2" имеет тип "LPCVOID *"
+  dummy_reader.vcxproj -> C:\Users\gstra\OneDrive\Рабочий стол\os-labs (2)\lab3\x64\Debug\dummy_reader.exe
